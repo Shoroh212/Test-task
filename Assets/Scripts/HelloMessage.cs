@@ -7,3 +7,7 @@ public struct HelloMassage : NetworkMessage
 {
     public string Text;
 }
+
+public struct SubscribeHelloMessage : NetworkMessage
+{
+}

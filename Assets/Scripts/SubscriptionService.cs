@@ -7,6 +7,7 @@ using Zenject;
 
 public class SubscriptionService : MonoBehaviour
 {
+    // Сервер 
    public IMassage _massage;
 
    
@@ -17,7 +18,7 @@ public class SubscriptionService : MonoBehaviour
     }
     public  void Start()
     {
-        _massage.Conclusion("Hello Message!");
+        _massage.Conclusion("Hello Client!");
        
     }
 }

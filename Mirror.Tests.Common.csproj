@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7692566B-7074-A23D-2C28-225DAAE4B562}</ProjectGuid>
+    <ProjectGuid>{F3E80AB1-A318-6239-F8AD-FB8542B9C970}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Mirror.Tests.Common</AssemblyName>
@@ -919,7 +919,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{F4B41E08-B1D5-41A9-6384-6778B0E214FA}</Project>
+      <Project>{BC717AA3-9CD7-1B92-19DC-5B4B99F29A41}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
   </ItemGroup>

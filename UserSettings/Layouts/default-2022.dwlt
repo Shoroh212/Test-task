@@ -243,8 +243,8 @@ MonoBehaviour:
     y: 0
     width: 1103
     height: 641
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -478,9 +478,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b6a50000
+      m_SelectedIDs: 486d0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 0896ffff
+      m_ExpandedIDs: f2faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1119,7 +1119,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scripts/Folder
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1127,17 +1127,17 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scripts/Folder
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\arosl\\Desktop\\\u041A\u0430\u0440\u0442\u0438\u043D\u043A\u0438
-    \u0434\u043B\u044F \u0438\u0433\u0440\\\u0422\u0417 \u041E\u0442\u0432\u0435\u0442"
+  m_LastProjectPath: "C:\\Users\\arosl\\Desktop\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435
+    \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Test-task"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a8a50000
-    m_LastClickedID: 42408
-    m_ExpandedIDs: 0000000056a50000a8a5000000ca9a3bffffff7f
+    m_SelectedIDs: 486d0000
+    m_LastClickedID: 27976
+    m_ExpandedIDs: 00000000146d0000206d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1165,7 +1165,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000056a50000
+    m_ExpandedIDs: 00000000146d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F4B41E08-B1D5-41A9-6384-6778B0E214FA}</ProjectGuid>
+    <ProjectGuid>{BC717AA3-9CD7-1B92-19DC-5B4B99F29A41}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Mirror</AssemblyName>
@@ -91,9 +91,9 @@
     <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\LagCompensation\HistoryBounds.cs" />
     <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\NetworkWriterExtensions.cs" />
     <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\InterestManagement.cs" />
-    <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\NetworkWriterPool.cs" />
     <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\TransportError.cs" />
     <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\NetworkReaderPool.cs" />
+    <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\NetworkWriterPool.cs" />
     <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\Threading\ConcurrentPool.cs" />
     <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\NetworkReaderExtensions.cs" />
     <Compile Include="Assets\Mirror-master\Mirror-master\Assets\Mirror\Core\Tools\CustomStructs\Half.cs" />
@@ -1080,7 +1080,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Mirror.CompilerSymbols.csproj">
-      <Project>{10A55043-54A3-27AD-2367-17DF968CC84E}</Project>
+      <Project>{897BDA9D-241A-3245-25AF-B80CBF93A377}</Project>
       <Name>Mirror.CompilerSymbols</Name>
     </ProjectReference>
   </ItemGroup>

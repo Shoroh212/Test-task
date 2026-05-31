@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6F205157-F83E-ADE6-C5F3-1DAFFA16DFB7}</ProjectGuid>
+    <ProjectGuid>{EDB0838C-74EA-1392-5B75-89BD83A819B3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Mirror.Examples</AssemblyName>
@@ -1199,19 +1199,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{F4B41E08-B1D5-41A9-6384-6778B0E214FA}</Project>
+      <Project>{BC717AA3-9CD7-1B92-19DC-5B4B99F29A41}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Authenticators.csproj">
-      <Project>{739757BB-B711-2CB1-AD9B-9D640B24F15B}</Project>
+      <Project>{DE80EE7A-A384-017D-6DD3-50BA912FBD09}</Project>
       <Name>Mirror.Authenticators</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Components.csproj">
-      <Project>{9C3B0518-B7FC-857F-BD95-F74F0A0BE1F6}</Project>
+      <Project>{6401BB45-8DDF-2BEB-4B02-363185BD3AB3}</Project>
       <Name>Mirror.Components</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Transports.csproj">
-      <Project>{AC4EC38E-3C1A-524E-CE95-B881418066E6}</Project>
+      <Project>{78550564-C180-85B0-4B8E-36360C97B3A6}</Project>
       <Name>Mirror.Transports</Name>
     </ProjectReference>
   </ItemGroup>

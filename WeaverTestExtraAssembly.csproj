@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{50C3309D-ECB2-4A14-875D-73F6ACD8104C}</ProjectGuid>
+    <ProjectGuid>{C4EFD1F0-EF34-DF50-F500-CF4194CA6EA4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>WeaverTestExtraAssembly</AssemblyName>
@@ -1033,7 +1033,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{F4B41E08-B1D5-41A9-6384-6778B0E214FA}</Project>
+      <Project>{BC717AA3-9CD7-1B92-19DC-5B4B99F29A41}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
   </ItemGroup>

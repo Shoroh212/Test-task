@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FECE7659-A693-0359-8B9D-BF4F5142F9D2}</ProjectGuid>
+    <ProjectGuid>{D457B7D6-AF16-FF87-3889-1A43FE4617B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -1150,59 +1150,59 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{9C04C5AC-5B74-AD47-2B09-931B88A5EFC6}</Project>
+      <Project>{8FACD5A6-0E3F-6E2E-6A68-904F02D63163}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Editor.csproj">
-      <Project>{8E6A822D-9C71-F2F8-BE7F-AA4F85EB656D}</Project>
+      <Project>{533298CC-B9AB-6547-2218-AE4833B48CC8}</Project>
       <Name>Mirror.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.CompilerSymbols.csproj">
-      <Project>{10A55043-54A3-27AD-2367-17DF968CC84E}</Project>
+      <Project>{897BDA9D-241A-3245-25AF-B80CBF93A377}</Project>
       <Name>Mirror.CompilerSymbols</Name>
     </ProjectReference>
     <ProjectReference Include="kcp2k.csproj">
-      <Project>{360EC337-1091-5A6A-A714-C9BCC28C6754}</Project>
+      <Project>{A28AADA7-3AF5-FAA1-DB04-0BDF428A15DA}</Project>
       <Name>kcp2k</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Components.csproj">
-      <Project>{9C3B0518-B7FC-857F-BD95-F74F0A0BE1F6}</Project>
+      <Project>{6401BB45-8DDF-2BEB-4B02-363185BD3AB3}</Project>
       <Name>Mirror.Components</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Authenticators.csproj">
-      <Project>{739757BB-B711-2CB1-AD9B-9D640B24F15B}</Project>
+      <Project>{DE80EE7A-A384-017D-6DD3-50BA912FBD09}</Project>
       <Name>Mirror.Authenticators</Name>
     </ProjectReference>
     <ProjectReference Include="Edgegap.csproj">
-      <Project>{792A97F7-A39B-C688-89E3-DC818F2852D6}</Project>
+      <Project>{51DFD21E-CC80-5062-DD3B-AA83078229CA}</Project>
       <Name>Edgegap</Name>
     </ProjectReference>
     <ProjectReference Include="WeaverTestExtraAssembly.csproj">
-      <Project>{50C3309D-ECB2-4A14-875D-73F6ACD8104C}</Project>
+      <Project>{C4EFD1F0-EF34-DF50-F500-CF4194CA6EA4}</Project>
       <Name>WeaverTestExtraAssembly</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{F4B41E08-B1D5-41A9-6384-6778B0E214FA}</Project>
+      <Project>{BC717AA3-9CD7-1B92-19DC-5B4B99F29A41}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
     <ProjectReference Include="Telepathy.csproj">
-      <Project>{5F927F6A-8EDE-3609-A52B-FB06CB9B9FB4}</Project>
+      <Project>{8BAD5E56-946D-A41C-4520-4C82A97A0CDB}</Project>
       <Name>Telepathy</Name>
     </ProjectReference>
     <ProjectReference Include="EncryptionTransportEditor.csproj">
-      <Project>{1BE8AE85-8AD7-CDD2-B23F-6CD06F6FB057}</Project>
+      <Project>{19675305-6956-C56E-0E2A-B2D3521E908C}</Project>
       <Name>EncryptionTransportEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Examples.csproj">
-      <Project>{6F205157-F83E-ADE6-C5F3-1DAFFA16DFB7}</Project>
+      <Project>{EDB0838C-74EA-1392-5B75-89BD83A819B3}</Project>
       <Name>Mirror.Examples</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Transports.csproj">
-      <Project>{AC4EC38E-3C1A-524E-CE95-B881418066E6}</Project>
+      <Project>{78550564-C180-85B0-4B8E-36360C97B3A6}</Project>
       <Name>Mirror.Transports</Name>
     </ProjectReference>
     <ProjectReference Include="SimpleWebTransport.csproj">
-      <Project>{9497AE69-0D11-91FC-58B0-7495742B444B}</Project>
+      <Project>{17456CB3-648F-99DD-045F-C5867C1EEEFE}</Project>
       <Name>SimpleWebTransport</Name>
     </ProjectReference>
   </ItemGroup>

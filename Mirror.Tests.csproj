@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BA4BD6BD-0641-2A9E-FB93-2A2537CBA949}</ProjectGuid>
+    <ProjectGuid>{89A51485-4391-2AF4-14A9-38F90AA093A3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Mirror.Tests</AssemblyName>
@@ -1170,35 +1170,35 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Mirror.csproj">
-      <Project>{F4B41E08-B1D5-41A9-6384-6778B0E214FA}</Project>
+      <Project>{BC717AA3-9CD7-1B92-19DC-5B4B99F29A41}</Project>
       <Name>Mirror</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Editor.csproj">
-      <Project>{8E6A822D-9C71-F2F8-BE7F-AA4F85EB656D}</Project>
+      <Project>{533298CC-B9AB-6547-2218-AE4833B48CC8}</Project>
       <Name>Mirror.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Components.csproj">
-      <Project>{9C3B0518-B7FC-857F-BD95-F74F0A0BE1F6}</Project>
+      <Project>{6401BB45-8DDF-2BEB-4B02-363185BD3AB3}</Project>
       <Name>Mirror.Components</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Tests.Common.csproj">
-      <Project>{7692566B-7074-A23D-2C28-225DAAE4B562}</Project>
+      <Project>{F3E80AB1-A318-6239-F8AD-FB8542B9C970}</Project>
       <Name>Mirror.Tests.Common</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mirror.CodeGen.csproj">
-      <Project>{DE22B823-9D29-5372-50FE-2B454C391677}</Project>
+      <Project>{DF32186D-C41A-99A2-B4F2-DE4AEE14C1D4}</Project>
       <Name>Unity.Mirror.CodeGen</Name>
     </ProjectReference>
     <ProjectReference Include="WeaverTestExtraAssembly.csproj">
-      <Project>{50C3309D-ECB2-4A14-875D-73F6ACD8104C}</Project>
+      <Project>{C4EFD1F0-EF34-DF50-F500-CF4194CA6EA4}</Project>
       <Name>WeaverTestExtraAssembly</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Transports.csproj">
-      <Project>{AC4EC38E-3C1A-524E-CE95-B881418066E6}</Project>
+      <Project>{78550564-C180-85B0-4B8E-36360C97B3A6}</Project>
       <Name>Mirror.Transports</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Tests.EditorBehaviours.csproj">
-      <Project>{C3B69B2B-741E-28D7-76DC-DDA3BFA092A1}</Project>
+      <Project>{6C43DE24-44C8-D1AC-AB3F-194FDA2A033E}</Project>
       <Name>Mirror.Tests.EditorBehaviours</Name>
     </ProjectReference>
   </ItemGroup>

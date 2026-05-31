@@ -390,6 +390,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/DI/SceneInstaller.cs"
+"Assets/Scripts/Folder/ClientHelloSubscriber.cs"
+"Assets/Scripts/Folder/HelloSubscriptionStorage.cs"
 "Assets/Scripts/HelloMessage.cs"
 "Assets/Scripts/HelloMessageReceiver.cs"
 "Assets/Scripts/NetworkMessageService.cs"

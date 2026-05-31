@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{792A97F7-A39B-C688-89E3-DC818F2852D6}</ProjectGuid>
+    <ProjectGuid>{51DFD21E-CC80-5062-DD3B-AA83078229CA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Edgegap</AssemblyName>
